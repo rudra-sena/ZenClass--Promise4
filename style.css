@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+    margin: 20px;
+    justify-content: center;
+}
+
+a{
+
+    text-decoration: none;
+    color: black;
+}
+button{
+    background-color: rgb(34, 18, 90);
+    color: white;
+    border: 0px;
+    padding: 10px;
+}
+#btn:hover{
+    cursor: pointer;
+}
+
+ol{
+    padding: 5px;
+    margin: 5px;
+}
+
+li{
+    padding: 10px;
+    font-size: 20px;
+}
